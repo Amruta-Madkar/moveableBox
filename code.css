@@ -1,0 +1,12 @@
+div {
+    width: 120px;
+    height: 120px;
+    background-color: aquamarine;
+    position:absolute;
+    border-style: solid;
+  }
+.btn{
+    margin-left: 50%;
+    align-items: center;
+    
+}
